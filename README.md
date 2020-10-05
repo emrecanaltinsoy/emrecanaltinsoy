@@ -8,6 +8,10 @@
 - 🔭 
 - 👯 
 
+### Publications:
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-20915-5_11">Raw G-Band Chromosome Image Segmentation Using U-Net Based Neural Network</a>
+
+
 ### Connect with me:
 
 [<img align="left" alt="Emrecan ALTINSOY | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
