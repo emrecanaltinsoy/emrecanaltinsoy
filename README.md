@@ -27,12 +27,10 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats:
 
-  <img align="left" alt="Emrecan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true" />
+<img align="left" alt="Emrecan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true" />
 
-</details>
 
 [instagram]: https://www.instagram.com/emrecanaltinsoy/
 [linkedin]: https://www.linkedin.com/in/emrecan-altinsoy-b77ab593/
