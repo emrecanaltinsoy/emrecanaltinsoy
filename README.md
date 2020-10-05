@@ -9,7 +9,9 @@
 - 👯 
 
 ### Publications:
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-20915-5_11">Raw G-Band Chromosome Image Segmentation Using U-Net Based Neural Network</a>
+- <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.1104">Fully-automatic raw G-band chromosome image segmentation</a>
+- <a href="https://link.springer.com/chapter/10.1007/978-3-030-20915-5_11">Raw G-Band Chromosome Image Segmentation Using U-Net Based Neural Network</a>
+- <a href="https://ieeexplore.ieee.org/abstract/document/8599328">An Improved Segmentation for Raw G-Band Chromosome Images</a>
 
 
 ### Connect with me:
