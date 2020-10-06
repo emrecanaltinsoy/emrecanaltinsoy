@@ -39,7 +39,6 @@
 ### GitHub Stats:
 
 <img align="left" alt="Emrecan's GitHub Stats" src="https://github-readme-stats.emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true" />
-[![Emrecan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrecanaltinsoy)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/emrecanaltinsoy/
 [linkedin]: https://www.linkedin.com/in/emrecan-altinsoy-b77ab593/
