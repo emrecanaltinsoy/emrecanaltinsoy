@@ -5,8 +5,6 @@
 - 🌱 I’m pasionate about programming
 - 🥅 2021 Goals: Finish my Ph.D. studies as planned
 - ⚡ Fun fact: I love exercising
-- 🔭 
-- 👯 
 
 ### Publications:
 - <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.1104" target="_blank">Fully-automatic raw G-band chromosome image segmentation</a>
