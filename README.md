@@ -11,7 +11,6 @@
 - <a href="https://link.springer.com/chapter/10.1007/978-3-030-20915-5_11" target="_blank">Raw G-Band Chromosome Image Segmentation Using U-Net Based Neural Network</a>
 - <a href="https://ieeexplore.ieee.org/abstract/document/8599328" target="_blank">An Improved Segmentation for Raw G-Band Chromosome Images</a>
 
-
 ### Connect with me:
 
 [<img align="left" alt="Emrecan ALTINSOY | LinkedIn" width="32px" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" />][linkedin]
@@ -32,6 +31,10 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing.emrecanaltinsoy.vercel.app/api/spotify-playing" alt="Emrecan Spotify Playing" width="350" />](https://open.spotify.com/user/11154698440)
 
 ### GitHub Stats:
 
