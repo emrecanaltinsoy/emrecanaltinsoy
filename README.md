@@ -16,6 +16,8 @@
 [<img align="left" alt="Emrecan ALTINSOY | LinkedIn" width="32px" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" />][linkedin]
 [<img align="left" alt="Emrecan ALTINSOY | Instagram" width="32px" src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" />][instagram]
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -28,6 +30,8 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing.emrecanaltinsoy.vercel.app/api/spotify)](https://open.spotify.com/user/11154698440)
@@ -35,6 +39,7 @@
 ### GitHub Stats:
 
 <img align="left" alt="Emrecan's GitHub Stats" src="https://github-readme-stats.emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true" />
+
 
 [instagram]: https://www.instagram.com/emrecanaltinsoy/
 [linkedin]: https://www.linkedin.com/in/emrecan-altinsoy-b77ab593/
