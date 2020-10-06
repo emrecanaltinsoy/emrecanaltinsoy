@@ -34,7 +34,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.emrecanaltinsoy.vercel.app/api/spotify-playing" alt="Emrecan Spotify Playing" width="350" />](https://open.spotify.com/user/11154698440)
+[<img src="spotify-now-playing-git-master.emrecanaltinsoy.vercel.app/api/spotify-playing" alt="Emrecan Spotify Playing" width="350" />](https://open.spotify.com/user/11154698440)
 
 ### GitHub Stats:
 
