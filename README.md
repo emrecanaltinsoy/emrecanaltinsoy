@@ -3,7 +3,6 @@
 ## I'm a Ph.D. Student at Shanghai Jiao Tong University
 
 - Currently working on my Ph.D. thesis
-- Learning TypeScript on the side
 - I’m pasionate about programming
 - I love exercising
 
