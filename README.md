@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Emrecan ALTINSOY | LinkedIn" width="32px" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" />][linkedin]
+[<img align="left" alt="Emrecan ALTINSOY | LinkedIn" width="32px" src="https://github.com/emrecanaltinsoy/emrecanaltinsoy/blob/main/linkedin%20icon.png" />][linkedin]
 [<img align="left" alt="Emrecan ALTINSOY | Instagram" width="32px" src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" />][instagram]
 
 <br />
