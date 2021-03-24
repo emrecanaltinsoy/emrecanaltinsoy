@@ -32,12 +32,13 @@
 
 <br />
 
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-now-playing.emrecanaltinsoy.vercel.app/api/spotify)](https://open.spotify.com/user/11154698440)
-
 [instagram]: https://www.instagram.com/emrecanaltinsoy/
 [linkedin]: https://www.linkedin.com/in/emrecanaltinsoy/
+
+<!-- ### Spotify Playing 🎧
+
+<!-- [![Spotify](https://spotify-now-playing.emrecanaltinsoy.vercel.app/api/spotify)](https://open.spotify.com/user/11154698440)
+
 
 <!-- ### GitHub Stats:
 
