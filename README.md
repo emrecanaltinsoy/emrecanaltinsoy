@@ -37,7 +37,7 @@
 
 ### GitHub Stats:
 
-<img align="left" alt="Emrecan's GitHub Stats" src="https://github-readme-stats.emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
+<img align="left" alt="Emrecan's GitHub Stats" src="https://github-stats-itsup54t9-emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanaltinsoy&layout=compact)](https://github.com/emrecanaltinsoy/github-readme-stats)
 
