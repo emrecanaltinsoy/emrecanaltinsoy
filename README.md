@@ -41,16 +41,16 @@
 </details>
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
+</details>
+
+<details>
   <summary>:zap: Top Languages</summary>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanaltinsoy&layout=compact" />
 </details>  
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</details>
 
 <!-- ### Spotify Playing 🎧
 
