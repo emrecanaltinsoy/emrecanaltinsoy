@@ -1,6 +1,6 @@
-### Hi there, I'm Emrecan 👋
+## Hi there, I'm Emrecan 👋
 
-## I'm a Ph.D. Student at Shanghai Jiao Tong University
+### I'm a Ph.D. Student at Shanghai Jiao Tong University
 
 - Currently working on my Ph.D. thesis
 - I’m pasionate about programming
@@ -16,7 +16,7 @@
 [<img align="left" alt="Emrecan ALTINSOY | LinkedIn" width="32px" src="https://github.com/emrecanaltinsoy/emrecanaltinsoy/blob/main/linkedin%20icon.png" />][linkedin]
 [<img align="left" alt="Emrecan ALTINSOY | Instagram" width="32px" src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" />][instagram]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -30,17 +30,27 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-
 [instagram]: https://www.instagram.com/emrecanaltinsoy/
 [linkedin]: https://www.linkedin.com/in/emrecanaltinsoy/
 
-### GitHub Stats:
+<br><br/>
 
-<img align="left" alt="Emrecan's GitHub Stats" src="https://github-stats-itsup54t9-emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img alt="Emrecan's GitHub Stats" src="https://github-stats-itsup54t9-emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanaltinsoy&layout=compact)](https://github.com/emrecanaltinsoy/github-readme-stats)
+<details>
+  <summary>:zap: Top Languages</summary>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanaltinsoy&layout=compact" />
+</details>  
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+</details>
 
 <!-- ### Spotify Playing 🎧
 
