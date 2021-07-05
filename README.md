@@ -35,6 +35,11 @@
 
 <br><br/>
 
+### Recent GitHub Activity:
+<!--START_SECTION:activity-->
+
+<br/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img alt="Emrecan's GitHub Stats" src="https://github-stats-itsup54t9-emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
@@ -43,8 +48,6 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-
-  <!--END_SECTION:activity-->
 </details>
 
 <details>
