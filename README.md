@@ -37,6 +37,9 @@
 
 ### Recent GitHub Activity:
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/forex_data/pull/1) in [emrecanaltinsoy/forex_data](https://github.com/emrecanaltinsoy/forex_data)
+2. 💪 Opened PR [#1](https://github.com/emrecanaltinsoy/forex_data/pull/1) in [emrecanaltinsoy/forex_data](https://github.com/emrecanaltinsoy/forex_data)
+<!--END_SECTION:activity-->
 
 <br/>
 
