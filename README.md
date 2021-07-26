@@ -35,22 +35,18 @@
 
 <br><br/>
 
-### Recent GitHub Activity:
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/forex_data/pull/1) in [emrecanaltinsoy/forex_data](https://github.com/emrecanaltinsoy/forex_data)
-2. 💪 Opened PR [#1](https://github.com/emrecanaltinsoy/forex_data/pull/1) in [emrecanaltinsoy/forex_data](https://github.com/emrecanaltinsoy/forex_data)
-<!--END_SECTION:activity-->
-
-<br/>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img alt="Emrecan's GitHub Stats" src="https://github-stats-itsup54t9-emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--RECENT_ACTIVITY:start-->
+  <summary>:zap: Top Languages</summary>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanaltinsoy&layout=compact" />
+</details> 
+
+### Recent GitHub Activity:
+<!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim)
 2. 📔 Created new repository [emrecanaltinsoy/dotfiles](https://github.com/emrecanaltinsoy/dotfiles)
 3. ⭐ Starred [iancamleite/prediciting-binary-options](https://github.com/iancamleite/prediciting-binary-options)
@@ -58,15 +54,9 @@
 5. 🔱 Forked [emrecanaltinsoy/transformers](https://github.com/emrecanaltinsoy/transformers) from [jamescalam/transformers](https://github.com/jamescalam/transformers)
 <!--RECENT_ACTIVITY:end-->
 
-  <!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update-->
 Last Updated: Monday, July 26th, 2021, 6:00:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
-</details>
-
-<details>
-  <summary>:zap: Top Languages</summary>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanaltinsoy&layout=compact" />
-</details>  
 
 <!-- ### Spotify Playing 🎧
 
