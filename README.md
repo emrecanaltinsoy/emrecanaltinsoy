@@ -47,15 +47,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
-2. ⭐ Starred [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim)
-3. 📔 Created new repository [emrecanaltinsoy/dotfiles](https://github.com/emrecanaltinsoy/dotfiles)
-4. ⭐ Starred [iancamleite/prediciting-binary-options](https://github.com/iancamleite/prediciting-binary-options)
-5. 📔 Created new repository [emrecanaltinsoy/movie-review-sentiment-analysis](https://github.com/emrecanaltinsoy/movie-review-sentiment-analysis)
+1. 🔱 Forked [emrecanaltinsoy/LunarVim](https://github.com/emrecanaltinsoy/LunarVim) from [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim)
+2. 🔱 Forked [emrecanaltinsoy/LunarVim](https://github.com/emrecanaltinsoy/LunarVim) from [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim)
+3. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+4. ⭐ Starred [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim)
+5. 📔 Created new repository [emrecanaltinsoy/dotfiles](https://github.com/emrecanaltinsoy/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 31st, 2021, 12:08:19 PM
+Last Updated: Sunday, August 1st, 2021, 12:08:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ### Spotify Playing 🎧
