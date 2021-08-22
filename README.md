@@ -7,6 +7,7 @@
 - I love exercising
 
 ### Publications:
+- <a href="https://link.springer.com/article/10.1007%2Fs00371-021-02273-5" target="_blank">An improved denoising of G-banding chromosome images using cascaded CNN and binary classification network</a>
 - <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.1104" target="_blank">Fully-automatic raw G-band chromosome image segmentation</a>
 - <a href="https://link.springer.com/chapter/10.1007/978-3-030-20915-5_11" target="_blank">Raw G-Band Chromosome Image Segmentation Using U-Net Based Neural Network</a>
 - <a href="https://ieeexplore.ieee.org/abstract/document/8599328" target="_blank">An Improved Segmentation for Raw G-Band Chromosome Images</a>
