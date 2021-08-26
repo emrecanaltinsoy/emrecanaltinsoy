@@ -2,8 +2,8 @@
 
 ### I'm a Ph.D. Student at Shanghai Jiao Tong University
 
-- Currently working on my Ph.D. thesis
-- I’m pasionate about programming
+- I'm currently working on my Ph.D. thesis
+- I’m passionate about programming
 - I love exercising
 
 ### Publications:
