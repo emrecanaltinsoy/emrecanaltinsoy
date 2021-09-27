@@ -48,15 +48,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/emrecanaltinsoy/gnome-extensions-loader/issues/2) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
-2. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/gnome-extensions-loader/pull/1) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
-3. 📔 Created new repository [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
-4. 🔱 Forked [emrecanaltinsoy/yolov5](https://github.com/emrecanaltinsoy/yolov5) from [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
-5. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+1. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+2. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+3. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+4. ✔️ Closed issue [#2](https://github.com/emrecanaltinsoy/gnome-extensions-loader/issues/2) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+5. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/gnome-extensions-loader/pull/1) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 26th, 2021, 12:08:49 PM
+Last Updated: Monday, September 27th, 2021, 12:09:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ### Spotify Playing 🎧
