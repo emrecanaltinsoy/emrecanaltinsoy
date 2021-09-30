@@ -1,5 +1,7 @@
 ## Hi there, I'm Emrecan 👋
 
+![](https://komarev.com/ghpvc/?username=emrecanaltinsoy&label=VIEWS)
+
 ### I'm a Ph.D. Student at Shanghai Jiao Tong University
 
 - I'm currently working on my Ph.D. thesis
@@ -59,7 +61,7 @@
 Last Updated: Wednesday, September 29th, 2021, 12:09:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
 
 <!-- ### Spotify Playing 🎧
 
