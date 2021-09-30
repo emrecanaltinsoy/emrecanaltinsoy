@@ -59,6 +59,8 @@
 Last Updated: Wednesday, September 29th, 2021, 12:09:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
+![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg)
+
 <!-- ### Spotify Playing 🎧
 
 <!-- [![Spotify](https://spotify-now-playing.emrecanaltinsoy.vercel.app/api/spotify)](https://open.spotify.com/user/11154698440)
