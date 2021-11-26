@@ -50,15 +50,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
-2. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+1. ⭐ Starred [Mange/rtl8192eu-linux-driver](https://github.com/Mange/rtl8192eu-linux-driver)
+2. ⭐ Starred [clnhub/rtl8192eu-linux](https://github.com/clnhub/rtl8192eu-linux)
 3. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
-4. ✔️ Closed issue [#2](https://github.com/emrecanaltinsoy/gnome-extensions-loader/issues/2) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
-5. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/gnome-extensions-loader/pull/1) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+4. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+5. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 25th, 2021, 12:10:29 PM
+Last Updated: Friday, November 26th, 2021, 12:10:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
