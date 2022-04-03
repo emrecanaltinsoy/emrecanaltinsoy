@@ -50,15 +50,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mange/rtl8192eu-linux-driver](https://github.com/Mange/rtl8192eu-linux-driver)
-2. ⭐ Starred [clnhub/rtl8192eu-linux](https://github.com/clnhub/rtl8192eu-linux)
+1. ⭐ Starred [emrecanaltinsoy/chromosome-semantic-segmentation](https://github.com/emrecanaltinsoy/chromosome-semantic-segmentation)
+2. ⭐ Starred [Visceral-Project/EvaluateSegmentation](https://github.com/Visceral-Project/EvaluateSegmentation)
 3. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 4. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 5. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 2nd, 2022, 12:11:45 PM
+Last Updated: Sunday, April 3rd, 2022, 12:12:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
