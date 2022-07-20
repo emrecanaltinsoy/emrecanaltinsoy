@@ -50,15 +50,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [emrecanaltinsoy/yasr](https://github.com/emrecanaltinsoy/yasr)
-2. ⭐ Starred [Visceral-Project/EvaluateSegmentation](https://github.com/Visceral-Project/EvaluateSegmentation)
+1. 📔 Created new repository [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+2. 📔 Created new repository [emrecanaltinsoy/yasr](https://github.com/emrecanaltinsoy/yasr)
 3. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 4. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 5. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 19th, 2022, 12:16:39 PM
+Last Updated: Wednesday, July 20th, 2022, 12:14:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
