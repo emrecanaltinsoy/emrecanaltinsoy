@@ -50,15 +50,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-2. 📔 Created new repository [emrecanaltinsoy/yasr](https://github.com/emrecanaltinsoy/yasr)
-3. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
-4. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+1. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/homelab/pull/1) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+2. 💪 Opened PR [#1](https://github.com/emrecanaltinsoy/homelab/pull/1) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+3. 📔 Created new repository [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+4. 📔 Created new repository [emrecanaltinsoy/yasr](https://github.com/emrecanaltinsoy/yasr)
 5. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 25th, 2022, 12:16:34 PM
+Last Updated: Tuesday, July 26th, 2022, 12:15:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
