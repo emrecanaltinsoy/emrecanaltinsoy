@@ -50,15 +50,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/homelab/pull/1) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-2. 💪 Opened PR [#1](https://github.com/emrecanaltinsoy/homelab/pull/1) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-3. 📔 Created new repository [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-4. 📔 Created new repository [emrecanaltinsoy/yasr](https://github.com/emrecanaltinsoy/yasr)
-5. ✌️ Released [Gnome Extensions Loader v1.0](https://github.com/emrecanaltinsoy/gnome-extensions-loader/releases/tag/v1.0) in [emrecanaltinsoy/gnome-extensions-loader](https://github.com/emrecanaltinsoy/gnome-extensions-loader)
+1. 🎉 Merged PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+2. 💪 Opened PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+3. 🎉 Merged PR [#2](https://github.com/emrecanaltinsoy/homelab/pull/2) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+4. 💪 Opened PR [#2](https://github.com/emrecanaltinsoy/homelab/pull/2) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+5. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/homelab/pull/1) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 28th, 2022, 12:19:37 PM
+Last Updated: Friday, July 29th, 2022, 12:16:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
