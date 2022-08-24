@@ -50,15 +50,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-2. 💪 Opened PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-3. 🎉 Merged PR [#2](https://github.com/emrecanaltinsoy/homelab/pull/2) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-4. 💪 Opened PR [#2](https://github.com/emrecanaltinsoy/homelab/pull/2) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-5. 🎉 Merged PR [#1](https://github.com/emrecanaltinsoy/homelab/pull/1) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+1. ⭐ Starred [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose)
+2. ⭐ Starred [OverEuro/deep-head-pose-lite](https://github.com/OverEuro/deep-head-pose-lite)
+3. 🎉 Merged PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+4. 💪 Opened PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+5. 🎉 Merged PR [#2](https://github.com/emrecanaltinsoy/homelab/pull/2) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 23rd, 2022, 12:17:21 PM
+Last Updated: Wednesday, August 24th, 2022, 12:16:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
