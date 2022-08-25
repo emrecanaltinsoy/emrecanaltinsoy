@@ -50,15 +50,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose)
-2. ⭐ Starred [OverEuro/deep-head-pose-lite](https://github.com/OverEuro/deep-head-pose-lite)
-3. 🎉 Merged PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-4. 💪 Opened PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
-5. 🎉 Merged PR [#2](https://github.com/emrecanaltinsoy/homelab/pull/2) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+1. 🔱 Forked [emrecanaltinsoy/deep-head-pose-lite](https://github.com/emrecanaltinsoy/deep-head-pose-lite) from [OverEuro/deep-head-pose-lite](https://github.com/OverEuro/deep-head-pose-lite)
+2. 🔱 Forked [emrecanaltinsoy/deep-head-pose](https://github.com/emrecanaltinsoy/deep-head-pose) from [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose)
+3. ⭐ Starred [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose)
+4. ⭐ Starred [OverEuro/deep-head-pose-lite](https://github.com/OverEuro/deep-head-pose-lite)
+5. 🎉 Merged PR [#3](https://github.com/emrecanaltinsoy/homelab/pull/3) in [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 24th, 2022, 12:16:55 PM
+Last Updated: Thursday, August 25th, 2022, 12:17:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
