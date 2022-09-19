@@ -5,7 +5,7 @@
 ### I'm an AI Engineer in Smiletronix (Barcelona)
 
 - I am about to finish my PhD studies
-- I mm passionate about programming and learning new tools
+- I am passionate about programming and learning new tools
 - I love exercising
 
 ### Publications:
