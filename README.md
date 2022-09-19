@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=emrecanaltinsoy&label=VIEWS)
 
-### I'm a Ph.D. Student at Shanghai Jiao Tong University
+### I'm an AI Engineer in Smiletronix (Barcelona)
 
-- I'm currently working on my Ph.D. thesis
-- I’m passionate about programming
+- I am about to finish my PhD studies
+- I mm passionate about programming and learning new tools
 - I love exercising
 
 ### Publications:
@@ -16,25 +16,42 @@
 
 ### Connect with me:
 
+[instagram]: https://www.instagram.com/emrecanaltinsoy/
+[linkedin]: https://www.linkedin.com/in/emrecanaltinsoy/
+
 [<img align="left" alt="Emrecan ALTINSOY | LinkedIn" width="32px" src="https://github.com/emrecanaltinsoy/emrecanaltinsoy/blob/main/linkedin%20icon.png" />][linkedin]
 [<img align="left" alt="Emrecan ALTINSOY | Instagram" width="32px" src="https://instagram-brand.com/wp-content/themes/ig-branding/assets/images/ig-logo-email.png" />][instagram]
 
-<br/>
+<br><br/>
 
 ### Languages and Tools:
+#### Languages
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="MATLAB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="PyTorch" width="32px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<img align="left" alt="OpenCV" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="MATLAB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br><br/>
 
-[instagram]: https://www.instagram.com/emrecanaltinsoy/
-[linkedin]: https://www.linkedin.com/in/emrecanaltinsoy/
+#### Python Modules
+<img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="OpenCV" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
+<img align="left" alt="FastAPI" width="60px" src="https://repository-images.githubusercontent.com/260928305/92388600-8d1c-11ea-9993-a726466b5099" />
+<img align="left" alt="SkLearn" width="60px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />
+
+<br><br/>
+
+#### Tools
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="K8S" width="40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
+
+<br><br/>
+
+#### Version Control
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="DVC" width="40px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
 
 <br><br/>
 
