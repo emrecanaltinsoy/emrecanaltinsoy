@@ -77,15 +77,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. 📔 Created new repository [emrecanaltinsoy/mlflow-template](https://github.com/emrecanaltinsoy/mlflow-template)
-3. 🔱 Forked [emrecanaltinsoy/deep-head-pose-lite](https://github.com/emrecanaltinsoy/deep-head-pose-lite) from [OverEuro/deep-head-pose-lite](https://github.com/OverEuro/deep-head-pose-lite)
-4. 🔱 Forked [emrecanaltinsoy/deep-head-pose](https://github.com/emrecanaltinsoy/deep-head-pose) from [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose)
-5. ⭐ Starred [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose)
+1. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)
+2. 📔 Created new repository [emrecanaltinsoy/keras2trt](https://github.com/emrecanaltinsoy/keras2trt)
+3. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+4. 📔 Created new repository [emrecanaltinsoy/mlflow-template](https://github.com/emrecanaltinsoy/mlflow-template)
+5. 🔱 Forked [emrecanaltinsoy/deep-head-pose-lite](https://github.com/emrecanaltinsoy/deep-head-pose-lite) from [OverEuro/deep-head-pose-lite](https://github.com/OverEuro/deep-head-pose-lite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 21st, 2022, 12:19:57 PM
+Last Updated: Thursday, September 22nd, 2022, 12:19:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
