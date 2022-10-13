@@ -77,15 +77,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)
-2. 📔 Created new repository [emrecanaltinsoy/keras2trt](https://github.com/emrecanaltinsoy/keras2trt)
-3. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-4. 📔 Created new repository [emrecanaltinsoy/mlflow-template](https://github.com/emrecanaltinsoy/mlflow-template)
-5. 🔱 Forked [emrecanaltinsoy/deep-head-pose-lite](https://github.com/emrecanaltinsoy/deep-head-pose-lite) from [OverEuro/deep-head-pose-lite](https://github.com/OverEuro/deep-head-pose-lite)
+1. 🤝 Became collaborator on [deepseekers/keras2trt](https://github.com/deepseekers/keras2trt)
+2. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)
+3. 📔 Created new repository [emrecanaltinsoy/keras2trt](https://github.com/emrecanaltinsoy/keras2trt)
+4. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+5. 📔 Created new repository [emrecanaltinsoy/mlflow-template](https://github.com/emrecanaltinsoy/mlflow-template)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 12th, 2022, 12:20:24 PM
+Last Updated: Thursday, October 13th, 2022, 12:19:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
