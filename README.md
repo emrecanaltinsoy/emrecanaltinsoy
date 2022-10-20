@@ -77,15 +77,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [emrecanaltinsoy/rfp-terraform](https://github.com/emrecanaltinsoy/rfp-terraform) from [morethancertified/rfp-terraform](https://github.com/morethancertified/rfp-terraform)
-2. 🤝 Became collaborator on [deepseekers/keras2trt](https://github.com/deepseekers/keras2trt)
-3. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)
-4. 📔 Created new repository [emrecanaltinsoy/keras2trt](https://github.com/emrecanaltinsoy/keras2trt)
-5. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+1. ⭐ Starred [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+2. 🔱 Forked [emrecanaltinsoy/rfp-terraform](https://github.com/emrecanaltinsoy/rfp-terraform) from [morethancertified/rfp-terraform](https://github.com/morethancertified/rfp-terraform)
+3. 🤝 Became collaborator on [deepseekers/keras2trt](https://github.com/deepseekers/keras2trt)
+4. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)
+5. 📔 Created new repository [emrecanaltinsoy/keras2trt](https://github.com/emrecanaltinsoy/keras2trt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 19th, 2022, 12:22:07 PM
+Last Updated: Thursday, October 20th, 2022, 12:20:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
