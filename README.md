@@ -77,15 +77,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
-2. ⭐ Starred [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
-3. 🔱 Forked [emrecanaltinsoy/rfp-terraform](https://github.com/emrecanaltinsoy/rfp-terraform) from [morethancertified/rfp-terraform](https://github.com/morethancertified/rfp-terraform)
-4. 🤝 Became collaborator on [deepseekers/keras2trt](https://github.com/deepseekers/keras2trt)
-5. ⭐ Starred [triton-inference-server/server](https://github.com/triton-inference-server/server)
+1. ⭐ Starred [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
+2. ⭐ Starred [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
+3. ⭐ Starred [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks)
+4. 🔱 Forked [emrecanaltinsoy/rfp-terraform](https://github.com/emrecanaltinsoy/rfp-terraform) from [morethancertified/rfp-terraform](https://github.com/morethancertified/rfp-terraform)
+5. 🤝 Became collaborator on [deepseekers/keras2trt](https://github.com/deepseekers/keras2trt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 21st, 2022, 12:21:12 PM
+Last Updated: Saturday, October 22nd, 2022, 12:17:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
