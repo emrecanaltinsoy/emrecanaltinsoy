@@ -77,15 +77,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers)
-2. ⭐ Starred [github/super-linter](https://github.com/github/super-linter)
+1. ⭐ Starred [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+2. ⭐ Starred [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers)
 3. ✌️ Released [0.5.0 release](https://github.com/emrecanaltinsoy/keras2trt/releases/tag/0.5.0) in [emrecanaltinsoy/keras2trt](https://github.com/emrecanaltinsoy/keras2trt)
 4. ✔️ Closed issue [#1](https://github.com/emrecanaltinsoy/keras2trt/issues/1) in [emrecanaltinsoy/keras2trt](https://github.com/emrecanaltinsoy/keras2trt)
 5. ⭐ Starred [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 17th, 2023, 12:14:10 PM
+Last Updated: Tuesday, April 18th, 2023, 12:13:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
