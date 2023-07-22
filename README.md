@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecanaltinsoy" alt="emrecanaltinsoy" /></a> </p>
 
-- 🔭 I’m currently working on **finishing my PhD**
-
 - 🌱 I’m currently learning **Rust**
 
 - I am passionate about programming and learning new tools
