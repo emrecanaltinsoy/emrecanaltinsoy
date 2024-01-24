@@ -75,15 +75,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
-2. ⭐ Starred [anchore/grype](https://github.com/anchore/grype)
-3. ⭐ Starred [anchore/syft](https://github.com/anchore/syft)
-4. ✔️ Closed issue [#1](https://github.com/emrecanaltinsoy/keras2trt/issues/1) in [emrecanaltinsoy/keras2trt](https://github.com/emrecanaltinsoy/keras2trt)
+1. ⭐ Starred [aws-samples/agentsforbedrock-retailagent](https://github.com/aws-samples/agentsforbedrock-retailagent)
+2. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
+3. ⭐ Starred [anchore/grype](https://github.com/anchore/grype)
+4. ⭐ Starred [anchore/syft](https://github.com/anchore/syft)
 5. ⭐ Starred [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 23rd, 2024, 12:13:46 PM
+Last Updated: Wednesday, January 24th, 2024, 12:14:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
