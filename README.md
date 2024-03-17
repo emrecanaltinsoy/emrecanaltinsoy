@@ -75,15 +75,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [angst7/stm32_functgen](https://github.com/angst7/stm32_functgen)
-2. ⭐ Starred [aws-samples/agentsforbedrock-retailagent](https://github.com/aws-samples/agentsforbedrock-retailagent)
-3. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
-4. ⭐ Starred [anchore/grype](https://github.com/anchore/grype)
-5. ⭐ Starred [anchore/syft](https://github.com/anchore/syft)
+1. ⭐ Starred [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
+2. ⭐ Starred [foostan/crkbd](https://github.com/foostan/crkbd)
+3. ⭐ Starred [angst7/stm32_functgen](https://github.com/angst7/stm32_functgen)
+4. ⭐ Starred [aws-samples/agentsforbedrock-retailagent](https://github.com/aws-samples/agentsforbedrock-retailagent)
+5. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 16th, 2024, 12:13:16 PM
+Last Updated: Sunday, March 17th, 2024, 12:12:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
