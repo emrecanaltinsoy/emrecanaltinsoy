@@ -75,15 +75,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
-2. ⭐ Starred [foostan/crkbd](https://github.com/foostan/crkbd)
-3. ⭐ Starred [angst7/stm32_functgen](https://github.com/angst7/stm32_functgen)
-4. ⭐ Starred [aws-samples/agentsforbedrock-retailagent](https://github.com/aws-samples/agentsforbedrock-retailagent)
-5. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
+1. 🔱 Forked [emrecanaltinsoy/qmk_firmware](https://github.com/emrecanaltinsoy/qmk_firmware) from [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+2. ⭐ Starred [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
+3. ⭐ Starred [foostan/crkbd](https://github.com/foostan/crkbd)
+4. ⭐ Starred [angst7/stm32_functgen](https://github.com/angst7/stm32_functgen)
+5. ⭐ Starred [aws-samples/agentsforbedrock-retailagent](https://github.com/aws-samples/agentsforbedrock-retailagent)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 23rd, 2024, 12:14:06 PM
+Last Updated: Sunday, March 24th, 2024, 12:12:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
