@@ -75,15 +75,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [emrecanaltinsoy/qmk_firmware](https://github.com/emrecanaltinsoy/qmk_firmware) from [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
-2. ⭐ Starred [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
-3. ⭐ Starred [foostan/crkbd](https://github.com/foostan/crkbd)
-4. ⭐ Starred [angst7/stm32_functgen](https://github.com/angst7/stm32_functgen)
-5. ⭐ Starred [aws-samples/agentsforbedrock-retailagent](https://github.com/aws-samples/agentsforbedrock-retailagent)
+1. 🔱 Forked [emrecanaltinsoy/vial-qmk](https://github.com/emrecanaltinsoy/vial-qmk) from [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk)
+2. 🔱 Forked [emrecanaltinsoy/qmk_firmware](https://github.com/emrecanaltinsoy/qmk_firmware) from [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+3. ⭐ Starred [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
+4. ⭐ Starred [foostan/crkbd](https://github.com/foostan/crkbd)
+5. ⭐ Starred [angst7/stm32_functgen](https://github.com/angst7/stm32_functgen)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 9th, 2024, 12:13:37 PM
+Last Updated: Wednesday, April 10th, 2024, 12:13:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
