@@ -75,7 +75,7 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [emrecanaltinsoy/vial-qmk](https://github.com/emrecanaltinsoy/vial-qmk) from [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk)
+1. ⭐ Starred [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 2. 🔱 Forked [emrecanaltinsoy/qmk_firmware](https://github.com/emrecanaltinsoy/qmk_firmware) from [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
 3. ⭐ Starred [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
 4. ⭐ Starred [foostan/crkbd](https://github.com/foostan/crkbd)
@@ -83,7 +83,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 15th, 2024, 12:16:29 PM
+Last Updated: Friday, August 16th, 2024, 12:16:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
