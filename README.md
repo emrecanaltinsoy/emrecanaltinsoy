@@ -75,15 +75,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
-2. 🔱 Forked [emrecanaltinsoy/qmk_firmware](https://github.com/emrecanaltinsoy/qmk_firmware) from [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+1. ⭐ Starred [crater-invoice/crater](https://github.com/crater-invoice/crater)
+2. ⭐ Starred [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 3. ⭐ Starred [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
 4. ⭐ Starred [foostan/crkbd](https://github.com/foostan/crkbd)
 5. ⭐ Starred [angst7/stm32_functgen](https://github.com/angst7/stm32_functgen)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 11th, 2024, 12:18:09 PM
+Last Updated: Tuesday, November 12th, 2024, 12:18:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
