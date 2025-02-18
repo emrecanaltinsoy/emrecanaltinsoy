@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecanaltinsoy" alt="emrecanaltinsoy" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
-
-- I am passionate about programming and learning new tools
-
-- I love exercising
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emrecanaltinsoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecanaltinsoy" height="30" width="40" /></a>
@@ -47,13 +41,12 @@
 <img align="left" alt="ElasticSearch" width="85px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-
 <br><br/>
 
 #### Cloud
 <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="left" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
-<img align="left" alt="GCP" width="80px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" />
+<!-- <img align="left" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
+<img align="left" alt="GCP" width="80px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" /> -->
 
 <br><br/>
 
