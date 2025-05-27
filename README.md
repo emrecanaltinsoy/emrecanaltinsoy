@@ -68,15 +68,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote)
-2. 📔 Created new repository [emrecanaltinsoy/insera-vue](https://github.com/emrecanaltinsoy/insera-vue)
-3. ⭐ Starred [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)
+1. 📔 Created new repository [emrecanaltinsoy/homelab](https://github.com/emrecanaltinsoy/homelab)
+2. ⭐ Starred [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote)
+3. 📔 Created new repository [emrecanaltinsoy/insera-vue](https://github.com/emrecanaltinsoy/insera-vue)
 4. ⭐ Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
 5. ⭐ Starred [geraldmuvengei06/nuxt-saas-starter](https://github.com/geraldmuvengei06/nuxt-saas-starter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 26th, 2025, 12:20:32 PM
+Last Updated: Tuesday, May 27th, 2025, 12:21:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
