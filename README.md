@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrecanaltinsoy&label=Profile%20views&color=0e75b6&style=flat" alt="emrecanaltinsoy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecanaltinsoy" alt="emrecanaltinsoy" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrecanaltinsoy" alt="emrecanaltinsoy" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emrecanaltinsoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrecanaltinsoy" height="30" width="40" /></a>
 </p>
 
+<!--
 ### Publications:
 - <a href="https://link.springer.com/article/10.1007%2Fs00371-021-02273-5" target="_blank">An improved denoising of G-banding chromosome images using cascaded CNN and binary classification network</a>
 - <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.1104" target="_blank">Fully-automatic raw G-band chromosome image segmentation</a>
@@ -45,8 +46,8 @@
 
 #### Cloud
 <img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<!-- <img align="left" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
-<img align="left" alt="GCP" width="80px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" /> -->
+<img align="left" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
+<img align="left" alt="GCP" width="80px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" />
 
 <br><br/>
 
@@ -55,16 +56,19 @@
 <img align="left" alt="DVC" width="40px" src="https://dvc.org/img/dvc_icon-color--square_vector.svg" />
 
 <br><br/>
+ -->
 
-<details>
+<img alt="GitHub Stats" src="https://github-stats-itsup54t9-emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
+
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
-  <img alt="Emrecan's GitHub Stats" src="https://github-stats-itsup54t9-emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
-</details>
+  <img alt="GitHub Stats" src="https://github-stats-itsup54t9-emrecanaltinsoy.vercel.app/api?username=emrecanaltinsoy&show_icons=true&hide_border=true&count_private=True&theme=algolia" />
+</details> -->
 
-<details>
+<!-- <details>
   <summary>:zap: Top Languages</summary>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecanaltinsoy&layout=compact" />
-</details> 
+</details>  -->
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
