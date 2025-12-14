@@ -72,15 +72,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console)
-2. ⭐ Starred [jitinnair1/snippet-book](https://github.com/jitinnair1/snippet-book)
-3. ⭐ Starred [sarwarbeing-ai/Agentic_Design_Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)
-4. ⭐ Starred [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)
-5. ⭐ Starred [geraldmuvengei06/nuxt-saas-starter](https://github.com/geraldmuvengei06/nuxt-saas-starter)
+1. ⭐ Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
+2. ⭐ Starred [b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console)
+3. ⭐ Starred [jitinnair1/snippet-book](https://github.com/jitinnair1/snippet-book)
+4. ⭐ Starred [sarwarbeing-ai/Agentic_Design_Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)
+5. ⭐ Starred [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 13th, 2025, 12:01:58 PM
+Last Updated: Sunday, December 14th, 2025, 12:02:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
