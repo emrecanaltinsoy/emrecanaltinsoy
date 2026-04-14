@@ -72,15 +72,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
-2. ⭐ Starred [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake)
-3. ⭐ Starred [jitinnair1/snippet-book](https://github.com/jitinnair1/snippet-book)
+1. ⭐ Starred [sandijean90/AgentStack-HealthcareAgent](https://github.com/sandijean90/AgentStack-HealthcareAgent)
+2. ⭐ Starred [holtskinner/A2AWalkthrough](https://github.com/holtskinner/A2AWalkthrough)
+3. ⭐ Starred [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
 4. ⭐ Starred [sarwarbeing-ai/Agentic_Design_Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)
 5. ⭐ Starred [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 13th, 2026, 12:17:45 PM
+Last Updated: Tuesday, April 14th, 2026, 12:15:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
