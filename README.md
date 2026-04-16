@@ -72,15 +72,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agntcy/slim](https://github.com/agntcy/slim)
-2. ⭐ Starred [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry)
-3. ⭐ Starred [sandijean90/AgentStack-HealthcareAgent](https://github.com/sandijean90/AgentStack-HealthcareAgent)
-4. ⭐ Starred [holtskinner/A2AWalkthrough](https://github.com/holtskinner/A2AWalkthrough)
-5. ⭐ Starred [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
+1. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
+2. ⭐ Starred [agntcy/slim](https://github.com/agntcy/slim)
+3. ⭐ Starred [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry)
+4. ⭐ Starred [sandijean90/AgentStack-HealthcareAgent](https://github.com/sandijean90/AgentStack-HealthcareAgent)
+5. ⭐ Starred [holtskinner/A2AWalkthrough](https://github.com/holtskinner/A2AWalkthrough)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 15th, 2026, 12:15:33 PM
+Last Updated: Thursday, April 16th, 2026, 12:17:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
