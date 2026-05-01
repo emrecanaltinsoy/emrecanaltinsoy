@@ -72,15 +72,15 @@
 
 ### Recent GitHub Activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FareedKhan-dev/scalable-rag-pipeline](https://github.com/FareedKhan-dev/scalable-rag-pipeline)
-2. ⭐ Starred [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry)
-3. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
-4. ⭐ Starred [agntcy/slim](https://github.com/agntcy/slim)
-5. ⭐ Starred [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry)
+1. ⭐ Starred [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
+2. ⭐ Starred [FareedKhan-dev/scalable-rag-pipeline](https://github.com/FareedKhan-dev/scalable-rag-pipeline)
+3. ⭐ Starred [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry)
+4. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
+5. ⭐ Starred [agntcy/slim](https://github.com/agntcy/slim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 12:27:02 PM
+Last Updated: Friday, May 1st, 2026, 12:15:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/emrecanaltinsoy/count.svg) -->
